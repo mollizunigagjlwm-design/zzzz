@@ -1,0 +1,11 @@
+*.o
+*.so
+*.a
+build/
+.env
+*.swp
+dist/
+.vscode/
+*.tmp
+node_modules/
+__pycache__/
